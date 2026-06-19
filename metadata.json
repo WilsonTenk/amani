@@ -1,0 +1,6 @@
+{
+  "name": "AMANI",
+  "description": "Ghana's leading NGO portal for community empowerment, resource monitoring, institution performance ratings, live radio, and local accountability tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
